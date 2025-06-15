@@ -1,0 +1,42 @@
+[
+  {
+    "train_id": "pak_exp",
+    "train_no": 10101,
+    "seats": [
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0]
+    ],
+    "station_times": {
+      "karachi": "08:00:00",
+      "lahore": "14:30:00",
+      "islamabad": "20:00:00"
+    },
+    "stations": [
+      "karachi",
+      "lahore",
+      "islamabad"
+    ]
+  },
+  {
+    "train_id": "green_line",
+    "train_no": 10102,
+    "seats": [
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0],
+      [0, 0, 0, 0, 0, 0]
+    ],
+    "station_times": {
+      "karachi": "07:00:00",
+      "hyderabad": "10:00:00",
+      "lahore": "19:00:00"
+    },
+    "stations": [
+      "karachi",
+      "hyderabad",
+      "lahore"
+    ]
+  }
+]

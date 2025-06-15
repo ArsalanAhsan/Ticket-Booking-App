@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Arsalan Ahsan",
+    "password": "12345",
+    "hashed_password": "$2a$10$MqonEcizso4Re9iFEMajHOIHCUd5O3Q.XZX779C50ZnC/Hb6mirwW",
+    "tickets_booked": [
+      {
+        "ticket_id": "ticket123-pk",
+        "user_id": "arsalan001",
+        "source": "Karachi",
+        "destination": "Lahore",
+        "date_of_travel": "2025-06-08T18:30:00Z",
+        "train": {
+          "train_id": "kar-lhr-express",
+          "train_no": "15UP",
+          "seats": [
+            [0, 0, 0, 0, 0, 0],
+            [0, 0, 0, 0, 0, 0],
+            [0, 0, 0, 0, 0, 0],
+            [0, 0, 0, 0, 0, 0]
+          ],
+          "station_times": {
+            "Karachi": "07:00:00",
+            "Hyderabad": "10:30:00",
+            "Lahore": "22:00:00"
+          },
+          "stations": ["Karachi", "Hyderabad", "Lahore"],
+          "train_info": "Train ID: kar-lhr-express, Train No: 15UP"
+        },
+        "ticket_info": "Ticket ID: ticket123-pk belongs to User arsalan001 from Karachi to Lahore on 2024-12-08T18:30:00Z"
+      }
+    ],
+    "user_id": "arsalan001"
+  },
+  {
+    "name": "Rahul",
+    "password": "hhbb11",
+    "hashed_password": "$2a$10$O/OWE.xh3gttMANiM4BIX.mo.4/myik1J739DZ25ecVENk8xhMCW2",
+    "tickets_booked": [],
+    "user_id": "fe46da4d-c8d1-4229-97e6-600dce6941e8"
+  }
+]
